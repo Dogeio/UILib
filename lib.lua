@@ -1091,3 +1091,4 @@ function lib:Window(gamename)
 	end
 	return tabhold
 end
+return lib
